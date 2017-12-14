@@ -1,4 +1,4 @@
-const Pie = require('./lib/server');
+const Pie = require('./dist/server');
 
 module.exports = {
   Pie
