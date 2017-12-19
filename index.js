@@ -1,3 +1,3 @@
-const Pie = require('./dist');
+const Pie = require('./lib');
 
 module.exports = Pie;

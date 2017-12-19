@@ -1,13 +1,12 @@
 {
   "name": "za-pie",
-  "version": "1.1.4",
+  "version": "1.1.9",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "rimraf ./dist &&./node_modules/.bin/babel ./lib -d ./dist",
     "eslint": "./node_modules/.bin/eslint . --ext .js",
     "eslint:fix": "./node_modules/.bin/eslint . --ext .js --fix",
-    "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

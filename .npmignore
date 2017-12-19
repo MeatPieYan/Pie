@@ -1,6 +1,5 @@
 /node_modules/
 .eslintrc.js
 /webpack/
-/lib/
 .babelrc
 /test/
