@@ -1,7 +1,3 @@
-const Pie = require('./dist/server');
-const PieDom = require('./dist/client');
+const Pie = require('./dist');
 
-module.exports = {
-  Pie,
-  PieDom
-};
+module.exports = Pie;
