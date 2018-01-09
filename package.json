@@ -41,5 +41,8 @@
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2",
     "rimraf": "^2.6.2"
+  },
+  "dependencies": {
+    "tac-ua": "^1.0.7"
   }
 }
