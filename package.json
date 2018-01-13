@@ -22,6 +22,13 @@
   "homepage": "https://github.com/MeatPieYan/Pie#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "koa-bodyparser": "^4.2.0",
+    "rimraf": "^2.6.2"
+  },
+  "dependencies": {
+    
+  },
+  "peerDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-react": "^6.24.1",
     "clean-webpack-plugin": "^0.1.17",
@@ -40,10 +47,6 @@
     "react-router-config": "^1.0.0-beta.4",
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2",
-    "rimraf": "^2.6.2"
-  },
-  "dependencies": {
-    "koa-bodyparser": "^4.2.0",
     "tac-ua": "^1.0.7"
   }
 }
