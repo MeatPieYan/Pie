@@ -11,6 +11,7 @@ module.exports = {
     "function-paren-newline": ["off"],
     "import/no-dynamic-require": ["off"],
     "import/no-extraneous-dependencies": ["error", {"devDependencies": ["**/*.test.js", "**/*.dev.**.js", "**/*.dev.js", "**/webpack.**.js"]}],
+    "import/no-unresolved": ["off"],
     "jsx-quotes": ["error", "prefer-single"],
     "max-len": ["error", { "code": 200 }],
     "no-console": ["error", { allow: ["log", "warn", "error"] }],
