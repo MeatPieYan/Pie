@@ -1,6 +1,6 @@
 {
   "name": "za-pie",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -38,7 +38,7 @@
     "koa-static": "^4.0.2",
     "koa-views": "^6.1.3",
     "tac-logger": "^1.0.10",
-    "tac-ua": "^1.0.7"
+    "tac-ua": "^1.0.8"
   },
   "peerDependencies": {
     "koa": "^2.4.1",
