@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "rimraf ./dist &&./node_modules/.bin/babel ./lib -d ./dist",
+    "build": "rimraf ./dist && ./node_modules/.bin/babel ./lib -d ./dist",
     "eslint": "./node_modules/.bin/eslint . --ext .js",
     "eslint:fix": "./node_modules/.bin/eslint . --ext .js --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
